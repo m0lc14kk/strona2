@@ -1,0 +1,12 @@
+/*
+    Oliwier Perzyński
+    11.10.2023
+*/
+
+.ulZadania {
+    list-style: none;
+}
+
+td > marquee {
+    background-color: #FF0000;
+}
